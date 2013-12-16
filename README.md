@@ -1,0 +1,4 @@
+pantallaBasico
+==============
+
+Ejercicio pantallaBasico resuelto
