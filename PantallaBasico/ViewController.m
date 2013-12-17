@@ -30,9 +30,7 @@
 
 -(void)animacionMovimiento: (UIGestureRecognizer*) recognizer
 {
-    
     CGSize medidaPantalla = [UIScreen mainScreen].bounds.size;
-    
     
     [UIImageView animateWithDuration:2 animations:^{
         recognizer.enabled = NO;
